@@ -1,14 +1,13 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: 'Our Coffee, yo'
+image: /img/flavor_wheel.jpg
+heading: What we offer?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  anyone. Seriously.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,6 +37,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/hobbes.jpg
+      text: This is a cat. His name is Hobbes. He's pretty rad.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -46,11 +47,11 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
-  description: >
+  description: >-
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    optimal for the plants, farmers and the local environment. For real.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -97,5 +98,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: '9,000'
 ---
+
