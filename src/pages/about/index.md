@@ -21,3 +21,7 @@ Direct trade is a form of sourcing practiced by some coffee roasters. Advocates 
 ### Reinvest profits
 
 We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+## Making a ton of money
+
+Because that's what life is all about
